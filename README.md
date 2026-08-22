@@ -35,7 +35,4 @@ XGBoost
 #### Author
 **Bhagyashri Ashtekar**
 
-If you found this project useful or interesting, feel free to ⭐ the repository!
-
-#MachineLearning #DataScience #SentimentAnalysis #XGBoost #NLP #Python #HealthcareAI #ArtificialIntelligence
 
